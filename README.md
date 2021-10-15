@@ -1,2 +1,2 @@
 # Ethiopian-Premier-League-Tables
-These are new tables created for analyzing Ethiopian Premier League clubs from the 2009-2021 time period. The Data was scrapped from multiple Wikipedia articles.
+These are new tables created for analyzing Ethiopian Premier League clubs from the 2009-2021 time period. The Data was scrapped from the multiple Wikipedia article entries on the Ethiopian Premier League Seasons. These articles were used to produce two tables: one table was comprised of every single iteration of a club from 2009-2021, the second table was comprised of the cumulative point totals that each club collected from 2009-2021.
